@@ -7,4 +7,4 @@
 - ⚡ Fun fact: badminton, rock climbing and music, whch help me keep relaxed
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sun123-cmd)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sun123-cmd)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sun123-cmd&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)

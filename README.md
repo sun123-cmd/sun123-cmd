@@ -1,4 +1,4 @@
-\### Hi there 👋 This Wenhao Sun 's github page~
+### Hi there 👋 This Wenhao Sun 's github page~
 
 - 🔭 I’m currently working on Emboided AI **(EAI)** and Electronic Dsign Automation **(EDA)**
 - 🌱 I’m currently learning **robotics learning methods** and **robust EDA methods**

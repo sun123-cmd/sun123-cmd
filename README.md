@@ -17,6 +17,7 @@
 ![LLVM](https://img.shields.io/badge/LLVM-262D3A?style=for-the-badge&logo=llvm&logoColor=white)
 ![RISC-V](https://img.shields.io/badge/RISC--V-001E6C?style=for-the-badge&logo=risc-v&logoColor=yellow)
 ![Shell](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Gazebo](https://img.shields.io/badge/Gazebo-1E2A39?style=for-the-badge&logo=gazebo&logoColor=white)
 ![UR3](https://img.shields.io/badge/UR3-0099CC?style=for-the-badge&logo=universal-robots&logoColor=white)
